@@ -1,0 +1,8 @@
+<svg id="Mastercard" xmlns="http://www.w3.org/2000/svg" width="40" height="28.168" viewBox="0 0 40 28.168">
+  <rect id="Rectangle_4" data-name="Rectangle 4" width="40" height="28.168" rx="2" fill="#36495d"/>
+  <g id="Group_4" data-name="Group 4" transform="translate(7.574 6.404)">
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="6.72" height="12.076" transform="translate(9.066 1.642)" fill="#f16522"/>
+    <path id="Path_12" data-name="Path 12" d="M1100.495,695.755a7.667,7.667,0,0,1,2.933-6.038,7.68,7.68,0,1,0,0,12.076,7.667,7.667,0,0,1-2.933-6.038" transform="translate(-1091.002 -688.075)" fill="#e41b24"/>
+    <path id="Path_13" data-name="Path 13" d="M1203.623,695.755a7.679,7.679,0,0,1-12.426,6.038,7.682,7.682,0,0,0,0-12.076,7.68,7.68,0,0,1,12.426,6.038m-.733,4.759v-.247h.1v-.05h-.254v.05h.1v.247Zm.493,0v-.3h-.078l-.089.2-.089-.2h-.078v.3h.054v-.225l.084.194h.057l.084-.195v.226Z" transform="translate(-1178.77 -688.075)" fill="#f89e1c"/>
+  </g>
+</svg>

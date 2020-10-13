@@ -1,0 +1,14 @@
+<svg id="Visa" xmlns="http://www.w3.org/2000/svg" width="40" height="28.168" viewBox="0 0 40 28.168">
+  <g id="Group_9" data-name="Group 9">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="40" height="28.168" rx="2" fill="#0066b2"/>
+  </g>
+  <g id="Group_3" data-name="Group 3" transform="translate(7.234 10.351)">
+    <g id="Group_2" data-name="Group 2" transform="translate(0 0)">
+      <path id="Path_7" data-name="Path 7" d="M780.467,729.059h-2.083l1.3-8h2.083Z" transform="translate(-769.399 -720.913)" fill="#fff"/>
+      <path id="Path_8" data-name="Path 8" d="M713.17,721.057l-1.986,5.5-.235-1.185h0l-.7-3.6a.892.892,0,0,0-.988-.721h-3.283l-.038.135a7.782,7.782,0,0,1,2.179.915l1.81,6.952H712.1l3.315-8Z" transform="translate(-705.938 -720.914)" fill="#fff"/>
+      <path id="Path_9" data-name="Path 9" d="M857.543,729.059h1.913l-1.668-8h-1.675a.958.958,0,0,0-.962.6l-3.107,7.406h2.172l.434-1.188H857.3Zm-2.292-2.831,1.095-2.995.616,2.995Z" transform="translate(-833.923 -720.914)" fill="#fff"/>
+      <path id="Path_10" data-name="Path 10" d="M811.464,721.97l.3-1.719a6.015,6.015,0,0,0-1.874-.349c-1.034,0-3.489.452-3.489,2.649,0,2.068,2.881,2.093,2.881,3.179s-2.584.891-3.437.207l-.31,1.8a5.835,5.835,0,0,0,2.352.452c1.422,0,3.567-.737,3.567-2.74,0-2.081-2.908-2.274-2.908-3.179S810.572,721.478,811.464,721.97Z" transform="translate(-793.18 -719.902)" fill="#fff"/>
+    </g>
+    <path id="Path_11" data-name="Path 11" d="M710.949,725.376l-.7-3.6a.892.892,0,0,0-.988-.721h-3.283l-.038.135a8.073,8.073,0,0,1,3.092,1.553A6.239,6.239,0,0,1,710.949,725.376Z" transform="translate(-705.938 -720.914)" fill="#f9a533"/>
+  </g>
+</svg>
